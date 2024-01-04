@@ -2,7 +2,7 @@
 Some usefull code of github
 
 ## create a new repository on the command line 
-``` git
+```javascript
 echo "# Analog-Clock" >> README.md 
 git init 
 git add README.md 
@@ -12,7 +12,7 @@ git remote add origin https://github.com/myself-viishal/Analog-Clock.git git pus
 
 ```
 ## ..or push an existing repository from the command line 
-```
+```javascript
 git remote add origin 
 git branch -M main 
 git push -u origin main 
