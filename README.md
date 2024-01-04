@@ -2,7 +2,7 @@
 Some usefull code of github
 
 ## create a new repository on the command line 
-```
+``` git
 echo "# Analog-Clock" >> README.md 
 git init 
 git add README.md 
